@@ -1,0 +1,26 @@
+/* style.css */
+body {
+    font-family: Arial, sans-serif;
+}
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+h1 {
+    margin: 0;
+    padding: 20px 0;
+}
+main {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+#puzzle {
+    margin-right: 20px;
+}
+#description {
+    width: 200px;
+}
+#timer {
+    width: 100px;
+}
